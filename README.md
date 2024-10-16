@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@chiragwadyalkar" target="blank"><img src="https://img.shields.io/twitter/follow/@chiragwadyalkar?logo=twitter&style=for-the-badge" alt="@chiragwadyalkar" /></a> </p>
 
-- 🌱 I’m currently learning **Java,ReactJs,NodeJS,ExpressJS,SQL,MongoDB,DSA,Javscript**
+- 🌱 I’m currently learning **Java | ReactJs | NodeJS | ExpressJS | SQL | MongoDB | DSA | Javscript**
 
 - 💬 Ask me about **Full Stack**
 

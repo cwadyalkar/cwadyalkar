@@ -1,15 +1,15 @@
 ![MasterHead](https://github.com/cwadyalkar/cwadyalkar/blob/main/Hello%20%2C%20I%20am%20Chirag.png)
 <h1 align="center">Hi 👋, I'm Chirag Wadyalkar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from Nagpur</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwadyalkar&label=Profile%20views&color=0e75b6&style=flat" alt="cwadyalkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@chiragwadyalkar" target="blank"><img src="https://img.shields.io/twitter/follow/@chiragwadyalkar?logo=twitter&style=for-the-badge" alt="@chiragwadyalkar" /></a> </p>
 
-- 🌱 I’m currently learning **React,Express.js,MongoDB,NodeJS,Java,DSA**
+- 🌱 I’m currently learning **Java,ReactJs,NodeJS,ExpressJS,SQL,MongoDB,DSA,Javscript**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **cwadyalkar@gmail.com**
 

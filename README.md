@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@chiragwadyalkar" target="blank"><img src="https://img.shields.io/twitter/follow/@chiragwadyalkar?logo=twitter&style=for-the-badge" alt="@chiragwadyalkar" /></a> </p>
 
-- 🌱 I’m currently learning **Java | ReactJs | NodeJS | ExpressJS | SQL | MongoDB | DSA | Javscript**
+- 🌱 I’m currently learning **Java | ReactJs | NodeJS | ExpressJS | SQL | MongoDB | DSA | Javascript |**
 
 - 💬 Ask me about **Full Stack**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@chiragwadyalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chiragwadyalkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chirag wadyalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag wadyalkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chiragwadyalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag wadyalkar" height="30" width="40" /></a>
 <a href="https://instagram.com/_itzchirag_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itzchirag_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chiragwadyalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragwadyalkar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/cwadyalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cwadyalkar" height="30" width="40" /></a>
